@@ -7,6 +7,7 @@ This repository contains code for a machine learning project that aims to predic
 
 Project Overview
 The goal of this project is to develop a machine learning model that can accurately predict the price of a car based on its attributes. This can be helpful for car buyers, sellers, and enthusiasts to estimate the value of a car.
+![image](https://github.com/Bakhtawar-123/Car_Price_Prediction_with_ML/assets/82812762/332d86ca-1b52-4ede-8d03-2c2581184852)
 
 The project follows the following steps:
 
